@@ -1,0 +1,4478 @@
+[
+  {
+    "type": "SMS",
+    "message": "Your order #12345 has been shipped. Track at: https://track.com/12345"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Welcome to our service! Please confirm your email address."
+  },
+  {
+    "type": "PUSH",
+    "message": "🎉 You've earned 100 bonus points! Check your rewards."
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New support ticket #789 created. Please check the admin panel."
+  },
+  {
+    "type": "SMS",
+    "message": "Your verification code is: 583294. Valid for 10 minutes."
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your monthly subscription will renew in 3 days for $9.99."
+  },
+  {
+    "type": "PUSH",
+    "message": "📱 New version 2.1.0 is available with dark mode!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "System alert: CPU usage at 95% on server web-01"
+  },
+  {
+    "type": "SMS",
+    "message": "Payment of $49.99 to Netflix was successful. Ref: TXN67890"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your password was changed from IP address 192.168.1.100"
+  },
+  {
+    "type": "PUSH",
+    "message": "🔥 Limited time offer: 50% off all electronics today only!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Daily report: 1,234 new users, 5,678 orders processed"
+  },
+  {
+    "type": "SMS",
+    "message": "Your appointment with Dr. Smith is tomorrow at 10:30 AM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Complete your profile to unlock premium features!"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend Alex just sent you a message!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "ERROR: Database connection failed on backup server"
+  },
+  {
+    "type": "SMS",
+    "message": "Your Uber is arriving in 4 minutes. License plate: ABC123"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Thank you for your purchase! Invoice #INV-2023-789 attached."
+  },
+  {
+    "type": "PUSH",
+    "message": "⏰ Reminder: Meeting with team in 15 minutes"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user registration: john@example.com needs approval"
+  },
+  {
+    "type": "SMS",
+    "message": "Your balance is running low. Please top up to avoid service interruption."
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been temporarily locked due to suspicious activity."
+  },
+  {
+    "type": "PUSH",
+    "message": "🎁 You have 3 unclaimed gifts in your inbox!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Security alert: Multiple failed login attempts detected"
+  },
+  {
+    "type": "SMS",
+    "message": "Your delivery will arrive between 2-4 PM today"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Action required: Please update your payment information"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly stats: 12 hours active, 45 tasks completed!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Backup completed successfully. Size: 45.6GB"
+  },
+  {
+    "type": "SMS",
+    "message": "Your COVID test results are ready. View at: https://health.gov/results"
+  },
+  {
+    "type": "EMAIL",
+    "message": "You've been invited to collaborate on Project Aurora"
+  },
+  {
+    "type": "PUSH",
+    "message": "New comment on your post: 'Great work!'"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Payment received: $1,250 from Client Corp"
+  },
+  {
+    "type": "SMS",
+    "message": "Your flight AA1234 is delayed by 2 hours. New departure: 8:45 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your free trial ends in 2 days. Upgrade to premium now!"
+  },
+  {
+    "type": "PUSH",
+    "message": "You've been away for a while. We miss you! 👋"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New order #45678: $349.99 from customer ID 8910"
+  },
+  {
+    "type": "SMS",
+    "message": "Emergency weather alert: Tornado warning until 6 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your document 'Contract.pdf' has been signed by all parties"
+  },
+  {
+    "type": "PUSH",
+    "message": "🏆 Congratulations! You've reached level 25!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Disk space critical: Only 2% free on /dev/sda1"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription is ready for pickup at CVS Pharmacy"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Security check: New device detected signing into your account"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your video 'How to setup' has 1,234 new views!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "API rate limit exceeded for client: mobile-app-v2"
+  },
+  {
+    "type": "SMS",
+    "message": "Your electricity bill of $87.65 is due in 5 days"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your job application for Senior Developer has been reviewed"
+  },
+  {
+    "type": "PUSH",
+    "message": "New match! Sarah liked your profile 💕"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Scheduled maintenance starts in 1 hour. Downtime: 30 min"
+  },
+  {
+    "type": "SMS",
+    "message": "Your reservation at Olive Garden for 7 PM is confirmed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your annual performance review is scheduled for next Monday"
+  },
+  {
+    "type": "PUSH",
+    "message": "🎵 New album from your favorite artist is out!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Customer support: New high priority ticket #999"
+  },
+  {
+    "type": "SMS",
+    "message": "Your gym membership auto-renewed. Amount: $29.99"
+  },
+  {
+    "type": "EMAIL",
+    "message": "You have unread messages in your support inbox"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your step goal for today: 8,234/10,000 steps"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Deployment successful: v1.2.3 to production"
+  },
+  {
+    "type": "SMS",
+    "message": "Your credit score increased by 15 points this month!"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your shipping label has been created for return #RET-789"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your food delivery is 5 minutes away! 🍕"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Monitor alert: Response time above threshold (2.5s)"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's oil change is due in 500 miles"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been verified successfully!"
+  },
+  {
+    "type": "PUSH",
+    "message": "You've been mentioned in a comment by @mike"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New follower: @tech_guru started following your channel"
+  },
+  {
+    "type": "SMS",
+    "message": "Your 2FA backup code: 8372-1946-5284. Keep it safe!"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your subscription to Premium Plan has been activated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Time for your daily meditation! 🧘‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New subscriber on YouTube: +1,234 this week"
+  },
+  {
+    "type": "SMS",
+    "message": "Your package from Amazon has been delivered to your doorstep"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your request for vacation days (Aug 10-15) has been approved"
+  },
+  {
+    "type": "PUSH",
+    "message": "Breaking news: Major announcement from tech giant"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Database index optimization completed in 45 seconds"
+  },
+  {
+    "type": "SMS",
+    "message": "Your dental cleaning appointment is confirmed for next Tuesday"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your credit card ending in 4321 has expired. Please update."
+  },
+  {
+    "type": "PUSH",
+    "message": "Your stock alert: AAPL is up 3.2% today"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user feedback received: Rating 4.5/5"
+  },
+  {
+    "type": "SMS",
+    "message": "Your COVID vaccine booster appointment is scheduled"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your document has been rejected. Please review comments."
+  },
+  {
+    "type": "PUSH",
+    "message": "New episode of your favorite podcast is available!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Sales target achieved: 125% of monthly goal 🎯"
+  },
+  {
+    "type": "SMS",
+    "message": "Your internet service will be interrupted for maintenance tomorrow"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship application status has been updated"
+  },
+  {
+    "type": "PUSH",
+    "message": "You have 3 new notifications in the app"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Memory usage alert: 85% on cache server"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel booking at Hilton is confirmed. Check-in: 3 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account security settings have been updated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just shared a photo with you 📸"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New blog post published: '10 Tips for Productivity'"
+  },
+  {
+    "type": "SMS",
+    "message": "Your roadside assistance request has been received. ETA: 25 min"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar registration for 'AI Trends 2024' is confirmed"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep analysis is ready: 7h 23m, quality: 85%"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Cache cleared successfully. Performance improved by 40%"
+  },
+  {
+    "type": "SMS",
+    "message": "Your loan application has been approved for $15,000"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your meeting recording is available for download"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your monthly listening report: Top artist was Taylor Swift"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New integration request from partner API"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's vaccination reminder: Due next month"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license key has been generated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your photo memory from 2 years ago today 🌟"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Domain ssl certificate expires in 15 days"
+  },
+  {
+    "type": "SMS",
+    "message": "Your utility service transfer to new address is complete"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference ticket for Tech Summit 2024 is confirmed"
+  },
+  {
+    "type": "PUSH",
+    "message": "New achievement unlocked: Early Bird for 30 days straight!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "GitHub: New pull request #456 from dev-team"
+  },
+  {
+    "type": "SMS",
+    "message": "Your security system detected motion at your front door"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your tax documents are available for download"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your watch battery is low (15%). Charge soon!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Load balancer health check failed for server app-03"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription refill is ready at Walgreens"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has reached the storage limit (95% used)"
+  },
+  {
+    "type": "PUSH",
+    "message": "New feature available: Try our AI assistant!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New comment on issue #789: 'Need more details'"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car insurance policy renews in 14 days"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your API key has been regenerated successfully"
+  },
+  {
+    "type": "PUSH",
+    "message": "You have 10 new matches waiting! ⚡"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Customer churn alert: 5% increase this week"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system is now armed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your design submission has been selected as a finalist!"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily reading goal: 15/20 minutes completed"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New error in logs: NullPointerException in UserService"
+  },
+  {
+    "type": "SMS",
+    "message": "Your subscription to Wall Street Journal is now active"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your password reset request has been processed"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is live streaming! Join now 🎥"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New high score on leaderboard: User 'pro_gamer' - 12,345 pts"
+  },
+  {
+    "type": "SMS",
+    "message": "Your blood test results are available online"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your company's quarterly report is attached"
+  },
+  {
+    "type": "PUSH",
+    "message": "New workout plan available: 30-day challenge 💪"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Payment gateway connection restored after maintenance"
+  },
+  {
+    "type": "SMS",
+    "message": "Your phone bill payment of $75.50 was successful"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your interview for Senior Position is scheduled"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your personalized news digest is ready 📰"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API documentation published for v2.0"
+  },
+  {
+    "type": "SMS",
+    "message": "Your vehicle registration renewal is due next month"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software update is ready to install"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your location has been shared with emergency contacts"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Database replication lag: 120 seconds (needs attention)"
+  },
+  {
+    "type": "SMS",
+    "message": "Your laundry is ready for pickup"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your newsletter subscription preferences have been saved"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation streak: 7 days in a row! 🧘"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security patch available for kernel"
+  },
+  {
+    "type": "SMS",
+    "message": "Your COVID exposure notification: Possible contact yesterday"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research paper has been accepted for publication!"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend's birthday is tomorrow! 🎂"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "CDN cache purge completed for all regions"
+  },
+  {
+    "type": "SMS",
+    "message": "Your parking session at Downtown Garage has ended"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account audit log is available for download"
+  },
+  {
+    "type": "PUSH",
+    "message": "New suggested friends based on your interests"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Email queue processing delayed: 1,234 emails pending"
+  },
+  {
+    "type": "SMS",
+    "message": "Your jury duty summons has been scheduled"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your expense report #ER-456 has been approved"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly learning progress: 78% complete 📚"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Third-party API is responding slowly (avg 3.2s)"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school bus is running 10 minutes late"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account deletion request will complete in 30 days"
+  },
+  {
+    "type": "PUSH",
+    "message": "New badges available in your collection 🏅"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Backup verification successful. All files intact."
+  },
+  {
+    "type": "SMS",
+    "message": "Your home temperature is above 80°F. AC turned on automatically"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your grant application status: Under review"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your fitness challenge starts tomorrow! Get ready 🏃"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New vulnerability detected: CVE-2023-12345"
+  },
+  {
+    "type": "SMS",
+    "message": "Your library books are due in 3 days"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your mentor matching is complete. Meet your mentor!"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your energy usage is 20% higher than average today"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New deployment pipeline created for staging environment"
+  },
+  {
+    "type": "SMS",
+    "message": "Your roadside assistance provider is on the way"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your two-factor authentication method has been changed"
+  },
+  {
+    "type": "PUSH",
+    "message": "New product in your wishlist is on sale! 🛍️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New code review requested for feature/add-search"
+  },
+  {
+    "type": "SMS",
+    "message": "Your flight boarding pass is ready. Gate: B12, Seat: 15A"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your compliance training must be completed by month end"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your heart rate is elevated. Take a break? ❤️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New forum post requires moderation"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription delivery is out for delivery"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your investment portfolio has been rebalanced"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your video upload is 75% complete 📤"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "SSL certificate renewed successfully for domain.com"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel keycard has been activated for room 321"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been migrated to the new platform"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your team just scored! Current score: 2-1 ⚽"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "User @hacker attempted brute force attack - IP blocked"
+  },
+  {
+    "type": "SMS",
+    "message": "Your rental car pickup is confirmed at Terminal A"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your copyright claim has been submitted successfully"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily language lesson is ready! 🇫🇷"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Monthly subscription report: $45,678 revenue, 1,234 new subs"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart lock detected an entry at 8:45 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your certification exam results are available"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is nearby! Say hello 👋"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Database vacuum operation completed. Space freed: 4.5GB"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's grooming appointment is tomorrow at 2 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your API usage is approaching the monthly limit"
+  },
+  {
+    "type": "PUSH",
+    "message": "New message from your doctor in patient portal"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New employee onboarding: John Doe started today"
+  },
+  {
+    "type": "SMS",
+    "message": "Your water leak detector detected moisture in basement"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your newsletter has been sent to 10,234 subscribers"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weather alert: Heavy rain expected in 1 hour 🌧️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature flag enabled: dark_mode_v2"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security cameras detected package delivery"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript has been sent to peer reviewers"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your streak is in danger! Log in today to keep it alive 🔥"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New error rate alert: 5.2% on payment service"
+  },
+  {
+    "type": "SMS",
+    "message": "Your transit card balance is low: $2.50 remaining"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your data export is complete and ready for download"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your plant needs water! Soil moisture at 15% 🌱"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New partner integration request approved"
+  },
+  {
+    "type": "SMS",
+    "message": "Your COVID test kit has been shipped via FedEx"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been upgraded to Enterprise tier"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your music discovery playlist has been updated 🎶"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Database connection pool exhausted. Increasing size..."
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart thermostat adjusted to eco mode while away"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your support ticket #5678 has been escalated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just completed a marathon! 🏅"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New content published: Blog post 'Getting Started Guide'"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription is ready at CVS Pharmacy #1234"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your contract #CT-789 needs your electronic signature"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily puzzle is ready! Can you solve it? 🧩"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user registered with referral code: FRIEND25"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school attendance: Marked present today"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your video conference is starting in 5 minutes"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your shopping cart is waiting! Items may sell out soon 🛒"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Security scan completed: 0 critical vulnerabilities found"
+  },
+  {
+    "type": "SMS",
+    "message": "Your parking meter expires in 15 minutes"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your subscription to Harvard Business Review is active"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your breathing exercise reminder: Time to relax 🌬️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New employee access request: VPN permissions"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's tire pressure is low: 28 PSI (front right)"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your analytics report for Q3 2024 is ready"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend tagged you in a photo 📷"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "CDN bandwidth usage alert: 95% of monthly quota used"
+  },
+  {
+    "type": "SMS",
+    "message": "Your food delivery driver is waiting at reception"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account recovery process has been initiated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation app subscription renews in 7 days 🧘"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature request from user: Dark mode for mobile"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel room service order is on its way"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your patent application has been filed successfully"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly screen time report: Down 15% from last week! 📱"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Redis cache cluster scaled up to 3 nodes"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home internet speed test completed: 450 Mbps download"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship funds have been disbursed to your account"
+  },
+  {
+    "type": "PUSH",
+    "message": "New episodes of your favorite show are available! 📺"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New GitHub star on repository: Awesome-Project"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription auto-refill has been scheduled"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your website SSL certificate has been installed"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is playing your favorite game! Join them? 🎮"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Load testing completed: System handles 10k concurrent users"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart scale detected a new weight measurement"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript feedback from reviewers is available"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily writing streak: 21 days! ✍️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New translation completed: French version of documentation"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school lunch account balance: $12.50"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license has been transferred successfully"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness reminder: Take 3 deep breaths 🌿"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New pull request merged: feature/improved-search-algorithm"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system is disarmed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your domain name registration has been renewed"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just started a workout! Send encouragement 💪"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Database migration completed successfully"
+  },
+  {
+    "type": "SMS",
+    "message": "Your ride share driver is arriving in 3 minutes"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your annual security audit is scheduled for next month"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep schedule: Consistently waking up at 7:15 AM ⏰"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New blog comment awaiting moderation: 'Great article!'"
+  },
+  {
+    "type": "SMS",
+    "message": "Your parking permit application has been approved"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software update includes critical security patches"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weather: Sunny, 75°F - Perfect day for a walk! ☀️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user signed up with corporate email domain"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's maintenance is due in 1,200 miles"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar recording is available for replay"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is celebrating 1 year on the platform! 🎉"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system user created: service-account-monitoring"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription has been sent to your pharmacy"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been added to the beta testing program"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily joke: Why don't scientists trust atoms? 🎭"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance check passed: GDPR requirements"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart doorbell detected motion at front door"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research data backup is complete and verified"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your hydration reminder: Drink water! 💧"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New integration test added for payment processing"
+  },
+  {
+    "type": "SMS",
+    "message": "Your transit pass has been renewed for next month"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your copyright registration certificate is attached"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just achieved a personal best! 🏆"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API rate limit policy implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home energy usage alert: Unusual spike detected"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference presentation submission has been accepted"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness session summary: 92% focus score 🧠"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New data pipeline created for analytics dashboard"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's vet appointment reminder: Tomorrow at 3 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license agreement has been updated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend sent you a virtual gift! 🎁"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user feedback: 'Love the new interface design!'"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car wash appointment is confirmed for 2 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account verification documents have been approved"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your step challenge: You're in 3rd place! 🥉"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New environment created: staging-europe"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home water leak detector is functioning normally"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your annual subscription to The Economist has renewed"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is listening to your shared playlist 🎵"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database index created for performance optimization"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription reminder: Time to take medication"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been credited with 500 loyalty points"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily forecast: Clear skies, low humidity 🌤️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security group created for developers"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel checkout time is 11 AM tomorrow"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your paper has been cited in a new research publication"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just reached a fitness milestone! 🏋️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API endpoint documented: /api/v2/users/{id}"
+  },
+  {
+    "type": "SMS",
+    "message": "Your parking spot reservation at airport is confirmed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your data privacy settings have been updated per regulations"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly reading goal: 3/5 books completed 📖"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring alert: High error rate on email service"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home HVAC filter needs replacement (90 days used)"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your grant proposal has passed initial screening"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend started a new job! Send congratulations 🎊"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New contributor joined project: @new-dev"
+  },
+  {
+    "type": "SMS",
+    "message": "Your laundry service pickup is scheduled for tomorrow"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your website backup has been created successfully"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation streak continues: 14 days 🧘‍♀️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database view created for reporting"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school bus is arriving in 5 minutes"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software trial has been extended by 7 days"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just shared a location with you 🗺️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system update available: Security patch KB456789"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's oil life remaining: 35%"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been selected for a user research study"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily gratitude reminder: What are you thankful for? 🙏"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature branch created: feature/notifications-v2"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system has been tested successfully"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript has been submitted to the journal"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend's post got 100 likes! Show some love ❤️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance benchmark: 40% faster than previous version"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription delivery driver is 10 minutes away"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been enrolled in the rewards program"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your energy saving this month: Equivalent to 10 trees planted 🌳"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New SSL certificate issued for api.domain.com"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel wake-up call is set for 7:30 AM tomorrow"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license key has been emailed to you"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just completed a 5k run! 🏃‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New automated test suite added for API endpoints"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home temperature adjusted for bedtime schedule"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference talk proposal has been shortlisted"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily mindfulness quote: 'The present moment is a gift' 🎁"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database backup scheduled for daily at 2 AM"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's battery health: 82% (Good)"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been verified for tax exemption status"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is celebrating an anniversary! 🥂"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New webhook configured for payment notifications"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart lock granted temporary access to cleaner"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research data has been archived successfully"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your screen time is 30% lower than last week! 📉"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user role created: Moderator with limited permissions"
+  },
+  {
+    "type": "SMS",
+    "message": "Your transit card has been topped up with $40"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software update includes new privacy features"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend shared a playlist with you 🎧"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New error tracking integration configured: Sentry"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home water usage alert: Possible leak detected"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your patent has been published in the official gazette"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly fitness report: 5 workouts, 12,345 calories burned 🔥"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New caching layer implemented for database queries"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's vaccination records are due for update"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been granted admin privileges"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is live! Join their stream now 📹"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance documentation uploaded: SOC2 report"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car wash subscription renews next week"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar slides have been uploaded successfully"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily inspiration: 'Small steps lead to big changes' 🌟"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature toggle added: enable_beta_features"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security cameras are offline - please check"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship application has moved to final round"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just learned a new language! 🇪🇸"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New audit log entry: Configuration changed by admin"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription auto-refill has been processed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account data export is complete (includes all history)"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep score last night: 87/100 (Excellent) 😴"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring dashboard created: System Health Overview"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel minibar charge: $24.50 added to your bill"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research paper has been accepted with minor revisions"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just donated to a cause you care about! 💝"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API version released: v2.1.0 with breaking changes notice"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart thermostat learned your schedule for this week"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license includes 24/7 priority support"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily water intake: 1.5/2 liters completed 💦"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security policy implemented: Password rotation every 90 days"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's diagnostic check completed: All systems normal"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been added to the early access program"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just achieved a new high score! 🎯"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database replication configured for failover"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home electricity usage: 20% lower than neighborhood average"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference registration includes workshop access"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness practice: 10 minutes today brings total to 1,000 minutes! 🧠"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New automated deployment configured for CI/CD pipeline"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's grooming has been completed successfully"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account security score: 95/100 (Excellent)"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend sent you a voice message! 🎤"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user survey results: 4.8/5 average satisfaction"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's location: Parked at 123 Main St since 9:00 AM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript has been typeset and is ready for proofreading"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly challenge: Walk 50,000 steps for a badge! 🥾"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Real-time notifications for system alerts"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system backup battery is fully charged"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes 1 year of free updates"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is having a birthday party this weekend! 🎈"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance optimization: Database queries 60% faster"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription reminder: Refill available in 3 days"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been verified for academic discount"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily positive affirmation: 'I am capable and strong' 💪"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup retention policy: 90 days for all databases"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel late checkout request approved until 2 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your paper has been downloaded 1,234 times this month"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just finished a book you recommended! 📚"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system alert: Disk I/O latency above threshold"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart scale detected a new user profile"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account recovery questions have been updated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation app: New guided session available 🧘‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API documentation published with interactive examples"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school lunch menu for tomorrow: Pizza day!"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license allows installation on 3 devices"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is traveling to a new country! ✈️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security audit completed: No critical issues found"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home air quality: Excellent (PM2.5: 5 μg/m³)"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your grant funds have been transferred to your institution"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly screen time goal achieved! 🎉"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Automated backups with point-in-time recovery"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's warranty expires in 45 days"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been selected for a special promotion"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just reached 1,000 followers! 🎊"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring integration: Prometheus metrics collection"
+  },
+  {
+    "type": "SMS",
+    "message": "Your laundry is dry and ready for folding"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your website has passed all accessibility checks"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily gratitude journal reminder 📓"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system update: Improved logging with structured format"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school bus GPS shows 8 minutes to arrival"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes premium customer support"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend shared a memory with you 🎞️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance certification achieved: ISO 27001"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's fuel level: 25% remaining"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account activity report for last month is ready"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness bell: Time for a breathing break 🌬️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature flag system implemented with gradual rollouts"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system is in test mode"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript has been assigned a DOI: 10.1234/abc.567"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just completed a coding challenge! 💻"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance monitoring: End-to-end transaction tracking"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription delivery exception: Signature required"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account includes unlimited cloud storage"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your energy usage comparison: 15% more efficient than neighbors 🌱"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New SSL/TLS configuration: TLS 1.3 only for improved security"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel amenities access card has been activated"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license is perpetual (no expiration)"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just adopted a pet! 🐕"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New automated testing: 95% code coverage achieved"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home temperature will adjust for away mode in 30 min"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference presentation has been scheduled for 3 PM"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily wisdom: 'Progress, not perfection' 🌟"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup verification: All backups tested and valid"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's tire rotation is due in 2,000 miles"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been whitelisted for API access"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is celebrating a work anniversary! 🏢"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New web application firewall rules deployed"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart lock denied access attempt at 2:15 AM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research data has been peer-reviewed and validated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your screen time trend: More productive usage detected 📈"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user permission system with role-based access control"
+  },
+  {
+    "type": "SMS",
+    "message": "Your transit pass auto-renewal processed successfully"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes advanced encryption features"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend created a new playlist for you 🎶"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New error reporting: Integrated with JIRA for ticket creation"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home water filter needs replacement (6 months used)"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your patent has been granted in the United States"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly fitness streak: 18 days active! 🔥"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New caching strategy: Redis cluster with failover support"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's microchip registration has been updated"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has super admin privileges enabled"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is streaming music you both love 🎵"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance framework implemented: HIPAA compliant"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car wash membership includes interior cleaning"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar recording has 500+ views already"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily motivation: 'Every day is a fresh start' 🌅"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature toggle: enable_experimental_features"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system connected to monitoring center"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship committee decision: Award granted"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just published their first article! ✍️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New audit trail: All system changes now logged with timestamps"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription ready for pickup: Pharmacy closing in 1 hour"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account data retention settings have been applied"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep analysis: Deep sleep increased by 15% 🌙"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring dashboard: Real-time system metrics"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel restaurant reservation confirmed for 8 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research has been featured in a major publication"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend donated to your birthday fundraiser! 🎂"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API versioning policy implemented: Semantic versioning"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart thermostat optimized schedule for energy savings"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes lifetime technical support"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily water tracking: 75% of goal completed 💧"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security enhancement: Multi-factor authentication required"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's engine diagnostic: No issues detected"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account enrolled in automatic security updates"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just hit a new personal record! 🏋️‍♀️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database clustering: Active-active replication configured"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home electricity generated by solar: 85% today ☀️"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference registration includes all workshop materials"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness milestone: 100 consecutive days! 🧘‍♀️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New automated deployment: Zero-downtime updates enabled"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's health checkup results: All normal"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account security assessment: 98/100 score"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend sent you a surprise video message! 🎥"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user feedback system: Integrated with product roadmap"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's location history available for last 30 days"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript has been translated into 3 languages"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly step challenge: Team is in 1st place! 🥇"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Real-time collaboration with shared editing"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system backup communication active"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license includes all future major versions"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is throwing a housewarming party! 🏠"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance benchmark: 99.99% uptime this quarter"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription refill reminder: Last refill available"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account qualifies for volume discount pricing"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily affirmation: 'I choose peace over worry' ✌️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup encryption: AES-256 encryption for all backups"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel spa appointment confirmed for tomorrow 10 AM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your paper cited by Nobel laureate in recent publication"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just finished a marathon for charity! 🏅"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system alert: Memory usage stabilized after optimization"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart scale synchronized data with health app"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account recovery options have been enhanced"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation app: New nature sounds available 🌿"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API documentation includes SDK examples in 5 languages"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school picture day is tomorrow"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license allows commercial use"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is visiting your city next week! 🗽"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security audit passed with flying colors"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home air purification system filter needs change"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your grant project has been extended for 6 more months"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly screen time: Most used app was Kindle 📚"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Automated disaster recovery with 5-minute RPO"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's extended warranty offer expires in 7 days"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account selected for exclusive beta features"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend reached 10k subscribers on YouTube! 🎬"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring integration: Grafana dashboards configured"
+  },
+  {
+    "type": "SMS",
+    "message": "Your laundry service completed: Clothes delivered"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your website passed Google Core Web Vitals assessment"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily gratitude: Three things you're thankful for today 🙏"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system update: Enhanced logging with correlation IDs"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school bus GPS: On time for pickup"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes priority bug fix support"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend shared an old photo of you both 📸"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance achieved: GDPR and CCPA compliant"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's fuel efficiency: 32.5 MPG this week"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account usage report: Top features used this month"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness bell: Time for a 1-minute breathing space 🌬️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature flag: Canary releases with 5% traffic"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system firmware updated successfully"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript impact factor increased to 8.5"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just launched their own business! 🚀"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance monitoring: Distributed tracing implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription delivery: Left with neighbor per instructions"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account includes advanced analytics dashboard"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your energy savings this year: $450 so far! 💰"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New SSL configuration: HSTS enabled for all domains"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel executive lounge access granted"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license is transferable to another organization"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just got engaged! 💍"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New automated testing: Integration tests run on every commit"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home temperature optimized for sleep cycle"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference keynote speaker invitation confirmed"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily wisdom: 'Growth happens outside the comfort zone' 🌱"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup verification: Automated restore tests weekly"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's brake pad inspection due in 5,000 miles"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been approved for API rate limit increase"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend celebrating 5 years at their company! 🎉"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New web application firewall: Advanced threat protection"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart lock access log available for review"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research dataset published in public repository"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your screen time: 45 minutes spent learning new skills 📈"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user permission system: Granular access controls"
+  },
+  {
+    "type": "SMS",
+    "message": "Your transit pass loaded with monthly unlimited rides"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes military-grade encryption"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend created a collaborative playlist 🎵"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New error reporting: Slack integration for critical errors"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home water usage: 20% below community average"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your patent applications filed in 3 additional countries"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly fitness: New personal best on bench press! 💪"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New caching: Multi-level cache with LRU eviction policy"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's insurance claim processed: $250 reimbursed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has global administrator privileges"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend streaming their guitar practice 🎸"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: PCI DSS Level 1 certification achieved"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car wash subscription includes free vacuuming"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar attendees: 85% satisfaction rating"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily motivation: 'Small consistent actions lead to big results' 🌟"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature toggle: Gradual rollout for machine learning features"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system integrated with local police"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship includes research funding for 2 years"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend published their first research paper! 📄"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New audit system: Immutable logs with cryptographic signatures"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription ready: Pharmacy offers delivery option"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account data retention: Custom policies applied"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep analysis: REM sleep duration optimal 🛌"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: Custom alerts based on business metrics"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel checkout completed: Invoice emailed to you"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research awarded 'Best Paper' at international conference"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend contributed to open source project! 🌐"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API versioning: Backward compatibility guaranteed"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart thermostat participating in energy saving program"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes source code access"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily water goal: 100% completed! ✅"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security: Biometric authentication support added"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's diagnostic report: Excellent condition"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account enrolled in security awareness training"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just ran their first 10k! 🏃‍♀️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database: Multi-region replication for global low latency"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home solar panels generated excess energy: Credit earned"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference presentation selected for plenary session"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness achievement: 1,000 hours of practice! 🧘"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New automated deployment: Blue-green deployment strategy"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's annual checkup scheduled for next month"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account security: Advanced threat detection enabled"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend sent you a personalized video greeting! 🎥"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user feedback: Feature request voting system implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's location sharing enabled with family members"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript translations available in 10 languages"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly challenge: Team completed 100,000 steps! 🏆"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Collaborative document editing in real-time"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system tested with fire department"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license includes all minor updates forever"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is hosting a virtual game night! 🎲"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance: 99.999% availability this month"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription auto-refill: Changed to 90-day supply"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account qualifies for enterprise support package"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily affirmation: 'I am resilient and adaptable' 🌈"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup: Geo-redundant storage across 3 regions"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel loyalty points: 15,000 points added to account"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your paper included in university curriculum"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend completed 100 days of coding! 💻"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system optimization: Memory leak fixed, stability improved"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart scale integrated with fitness challenges"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account recovery: Emergency access protocol established"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation app: New sleep stories available 🌙"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API docs: Interactive playground with live examples"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school: Special event permission slip due"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software certified for government use"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend visiting from overseas next month! 🌍"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security audit: Penetration testing completed"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home air quality monitoring: Pollen count high today"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your grant project results published in top journal"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly screen time: Educational apps usage up 40% 📚"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New disaster recovery: Automated failover to secondary site"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's roadside assistance membership renewed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account selected for early access to AI features"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend reached 50k followers on Instagram! 📸"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: Machine learning anomaly detection"
+  },
+  {
+    "type": "SMS",
+    "message": "Your laundry service: Special stain treatment applied"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your website achieved perfect Lighthouse scores"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily gratitude practice: 30-day streak! 🙏"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system update: Microservices architecture implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school bus tracking: Accurate real-time data"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes dedicated account manager"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend shared childhood photo album 📒"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: SOC 2 Type II certification achieved"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's fuel efficiency best in class for model"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account analytics: Most used features highlighted"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness reminder: Body scan meditation available 🧘‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature flag: Percentage-based rollout for new UI"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security system updated with new features"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript acceptance rate: 95th percentile in field"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend launched a successful Kickstarter! 🚀"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance monitoring: End-user experience tracking"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription delivery: Temperature-sensitive packaging"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account includes predictive analytics dashboard"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your energy savings: Carbon offset equivalent to 10 trees 🌳"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New SSL: Perfect forward secrecy enabled"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel upgrade available: Suite at no extra cost"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license perpetually valid for current version"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend is getting married next summer! 💒"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New automated testing: Performance regression tests"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home temperature optimized for energy efficiency"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference keynote recorded and available online"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily wisdom: 'The only constant is change' 🌊"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup system: Incremental forever backups"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's maintenance history complete and up to date"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account API limits increased to 10,000 requests/min"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend celebrating 10-year work anniversary! 🎊"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New WAF: Advanced bot protection and DDoS mitigation"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart lock: Temporary access code for guest created"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research dataset downloaded 5,000+ times"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your screen time: Language learning app usage doubled 📈"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New permission system: Attribute-based access control"
+  },
+  {
+    "type": "SMS",
+    "message": "Your transit pass: Free transfer within 2 hours enabled"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes quantum-resistant encryption"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend created a music playlist for your road trip 🎵"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New error handling: Circuit breaker pattern implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home water conservation: 30% reduction this month"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your patents now filed in 15 countries worldwide"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly fitness: New flexibility record achieved! 🤸"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New caching: Distributed cache with consistent hashing"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's health insurance: Premium reduced by 15%"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been granted emergency override permissions"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend streaming their cooking show live! 👨‍🍳"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: FedRAMP Moderate authorization achieved"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car wash subscription: Unlimited washes this month"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar had attendees from 50+ countries"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily motivation: 'Progress over perfection' ⭐"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature toggle: Dark mode available for beta testers"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Professional monitoring 24/7 active"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship includes international conference travel"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend published their poetry collection! 📝"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New audit: Blockchain-based immutable audit trail"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Automatic delivery scheduled monthly"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account data governance policies applied successfully"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep analysis: Sleep consistency score 92/100 🛌"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: Business transaction monitoring implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel stay extended by popular demand"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research won 'Innovation of the Year' award"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend contributed to Wikipedia article! 📚"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API version: Complete backward compatibility maintained"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart thermostat earned energy efficiency rebate"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes white-labeling option"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily hydration: Goal exceeded by 20%! 🎉"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security: Hardware security module integration"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's safety features: All systems operational"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account enrolled in advanced security training"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend completed Ironman triathlon! 🏊‍♂️🚴‍♂️🏃‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database: Multi-cloud deployment for maximum resilience"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home solar: Net metering credit received"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference presentation voted 'Audience Favorite'"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness: 2,000 hours of practice completed! 🧘‍♀️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New deployment: Canary releases with automated rollback"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet's dental cleaning scheduled for next week"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account security: Zero-trust architecture implemented"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend created a surprise birthday video for you! 🎂"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feedback: User sentiment analysis implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's location sharing with emergency services enabled"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript now available as open access"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly challenge: Team won first place! 🏆"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Collaborative whiteboard with video chat"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Fire department inspection passed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software license includes perpetual updates"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend hosting virtual movie night! 🍿"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance: 100% uptime this month achieved"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: 90-day supply with mail delivery"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account upgraded to platinum enterprise tier"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily affirmation: 'I embrace challenges as opportunities' 🌟"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup: Air-gapped backups for maximum security"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel loyalty: Platinum status achieved"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your paper required reading in graduate program"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend coded for 100 consecutive days! 💻"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system: Performance improved by 300% after optimization"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart scale: Body composition analysis available"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account recovery: Multi-factor recovery options"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation: New guided series for stress relief 🧘"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API docs: Complete with code samples and tutorials"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school: Parent-teacher conference scheduled"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software approved for financial institutions"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend returning from overseas assignment 🌏"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security: Advanced intrusion detection system"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home air quality: VOC levels within safe range"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your grant project extended with additional funding"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly screen time: Creativity apps usage increased ✨"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New disaster recovery: Automated site failover tested"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's emergency services: Automatic crash detection"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account selected for exclusive AI beta program"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend reached 100k Twitter followers! 🐦"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: Predictive failure detection using ML"
+  },
+  {
+    "type": "SMS",
+    "message": "Your laundry: Eco-friendly detergent used as requested"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your website achieved perfect accessibility score"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your gratitude practice: 60-day streak maintained 🙏"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New architecture: Event-driven microservices implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school bus: Real-time tracking accurate"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software includes 24/7 phone support"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend digitized family photo archives 📸"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: ISO 27001 and 27017 certified"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's fuel: Best efficiency in its class"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account analytics: Personalized recommendations"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness: Loving-kindness meditation available 💖"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature flag: Dynamic configuration without redeployment"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Updated with facial recognition"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript: Most cited in journal this year"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend's startup received Series A funding! 💰"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance: Real user monitoring with synthetic checks"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Specialty pharmacy handling complete"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account includes predictive maintenance alerts"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your energy savings: Annual reduction of 2 tons CO2 🌍"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New SSL: All domains now using TLS 1.3 exclusively"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: Complimentary breakfast included"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Source code escrow arrangement established"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend announced pregnancy! 👶"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New testing: Chaos engineering experiments implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home: Energy consumption 40% below average"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference: Keynote recording viral on social media"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily wisdom: 'Kindness is always in style' 💝"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup: Immutable backups with WORM storage"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: All maintenance records digital and complete"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: API rate limits customized for your needs"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend celebrating 25 years of marriage! 💑"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New WAF: Advanced machine learning threat detection"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart lock: One-time code for service provider"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research: Dataset becomes industry standard"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your screen time: Productivity apps usage at all-time high 📈"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New permissions: Fine-grained access control matrix"
+  },
+  {
+    "type": "SMS",
+    "message": "Your transit: Free rides during environmental alert days"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Post-quantum cryptography implemented"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend curated music playlist for your wedding 🎵"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New error handling: Graceful degradation implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home water: Leak detection system tested OK"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your patents: Portfolio valued at $5M by analysts"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly fitness: New endurance record set! 🏃"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New caching: Edge caching with 99.9% hit rate"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet: Insurance premium reduced for healthy habits"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Emergency access available to trusted contacts"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend streaming art creation process 🎨"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: CJIS compliant for law enforcement use"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car wash: Ceramic coating application included"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar: Translated into 12 languages"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily motivation: 'Success is a journey, not destination' 🚶‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Experimental features available for testing"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Integrated with smart city initiative"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship: Full tuition plus living stipend"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend published photography book! 📷"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New audit: Real-time compliance monitoring dashboard"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Auto-refill with drone delivery option"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Data sovereignty policies implemented"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep: Optimal sleep duration achieved 7 nights straight 😴"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: Business impact analysis integrated"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: Sustainable practices certification earned"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research: Breakthrough featured in national news"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend contributed to major open-source framework 🌐"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API: Version 3.0 released with enhanced capabilities"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart thermostat: Learned optimal comfort settings"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Custom development available"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your hydration: Perfect streak for 30 days! 🎯"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security: Hardware tokens supported for 2FA"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Advanced driver assistance systems updated"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Advanced security analytics dashboard"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend completed ultramarathon! 🏃‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database: Global distribution with single-digit latency"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home solar: Battery storage system fully charged"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference presentation won 'Most Innovative' award"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness: 5,000 hours of practice milestone! 🧘"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New deployment: GitOps workflow implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet: Annual vaccinations up to date"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Zero-knowledge proof authentication available"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend created birthday video montage 🎬"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feedback: Real-time user sentiment dashboard"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Location shared with roadside assistance"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript: Open peer review completed"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly challenge: Personal best in all categories! 🏅"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Virtual collaboration spaces with video"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Insurance discount approved"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Lifetime license with all features"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend hosting virtual concert! 🎤"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance: 100% SLA compliance this quarter"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Personalized dosage based on genetics"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Diamond tier with concierge service"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily affirmation: 'I am capable of amazing things' ✨"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup: Immutable, encrypted, geographically distributed"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: Presidential suite upgrade complimentary"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your paper: Required reading in Ivy League courses"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend coded for 365 days straight! 👨‍💻"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system: 10x performance improvement achieved"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart scale: Advanced metabolic age analysis"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Advanced recovery with biometrics"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation: New series for emotional resilience 🧘‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API docs: Complete SDKs for all major languages"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school: Academic excellence award"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Government security clearance obtained"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend returning as expat after 5 years 🌎"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security: Advanced threat intelligence integration"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home air: Purification system eliminates 99.9% particles"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your grant: Renewed for additional 3-year period"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly screen time: Learning new skill daily 📚"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New disaster recovery: Multi-cloud failover tested"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Emergency services automatic notification"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Early access to quantum computing features"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Social media influencer with 1M followers! 📱"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: Predictive analytics for system health"
+  },
+  {
+    "type": "SMS",
+    "message": "Your laundry: Organic cotton preservation treatment"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your website: Perfect Core Web Vitals scores maintained"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your gratitude: 90-day streak of daily practice 🙏"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New architecture: Serverless functions for scalability"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school bus: Safety inspection passed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: 24/7 support with 15-minute response time"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend archived family history digitally 📜"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: International standards certification"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Fuel efficiency championship winner"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: AI-powered personal assistant included"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness: Compassion meditation series added 💖"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Dynamic configuration management system"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Advanced facial recognition update"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript: Most influential paper of decade"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend's company IPO successful! 📈"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance: Real user monitoring global coverage"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Genetic-based personalized medicine"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Predictive maintenance and optimization"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your energy savings: Carbon neutral achievement 🌱"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New SSL: Quantum-resistant algorithms implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: Carbon neutral certification achieved"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Source code available for audit"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend expecting twins! 👶👶"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New testing: Automated chaos engineering daily"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home: Net zero energy building certification"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference: TED Talk invitation received"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily wisdom: 'The best time to plant a tree was 20 years ago' 🌳"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup: Blockchain-verified backup integrity"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Complete digital maintenance history"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Custom API rate limiting implemented"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend golden wedding anniversary! 💒"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New WAF: AI-powered real-time threat detection"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart lock: Biometric access for family members"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research: Industry standard methodology"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your screen time: All-time high productivity score 🚀"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New permissions: Attribute-based access control live"
+  },
+  {
+    "type": "SMS",
+    "message": "Your transit: Free unlimited rides this month"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Post-quantum cryptography standard"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend composed original wedding song 🎵"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New error handling: Self-healing system implemented"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home water: Advanced leak detection active"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your patents: Portfolio exceeds $10M valuation"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly fitness: All personal records broken! 💥"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New caching: Global edge network with 50ms latency"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet: Insurance premium reduced for perfect health"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Emergency access with time limits"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend live painting exhibition 🎨"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: International data protection standards"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car wash: Premium detailing package included"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar: Global audience record broken"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily motivation: 'Every ending is a new beginning' 🌅"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Experimental AI capabilities available"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Integrated with city emergency services"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship: Full ride plus research funding"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend published bestselling novel! 📖"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New audit: Real-time compliance dashboard operational"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Drone delivery completed successfully"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Data sovereignty across 50 countries"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep: Perfect sleep score for 7 consecutive nights 🌙"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: Business metrics integration complete"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: LEED Platinum certification achieved"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research: Nobel Prize nomination received"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend contributed to Linux kernel! 🐧"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API: Version 4.0 with groundbreaking features"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart thermostat: AI-optimized for comfort and savings"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Tailored enterprise solution delivered"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your hydration: Perfect month achievement unlocked! 🏆"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security: Advanced hardware security modules"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Autonomous driving capabilities updated"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Enterprise-grade security dashboard"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend completed Deca Ironman! 🏊‍♂️🚴‍♂️🏃‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database: Planet-scale distributed database"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home solar: 100% energy independence achieved"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference: Standing ovation for keynote"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness: 10,000 hours of practice milestone 🧘‍♀️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New deployment: Fully automated CI/CD pipeline"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet: Perfect health report from veterinarian"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Zero-knowledge encryption standard"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend created documentary film 🎬"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feedback: Real-time user experience analytics"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Integrated with smart city infrastructure"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript: Wikipedia featured article"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly challenge: World record attempt successful! 🌍"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Virtual reality collaboration spaces"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Military-grade encryption implemented"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Perpetual license with all future updates"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend symphony orchestra performance 🎻"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance: 100% SLA for entire year"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Personalized based on DNA analysis"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Executive concierge service available"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily affirmation: 'I create my own reality' ✨"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup: Quantum-safe encrypted backups"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: Seven-star service rating achieved"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your paper: Fundamentally changed the field"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: 1,000 days of coding streak! 💻"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system: 100x performance improvement milestone"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart scale: Advanced health risk assessment"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Biometric recovery with DNA option"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation: Neuroscience-backed programs 🧠"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API docs: Interactive with real API calls"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school: National ranking top 10"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Top secret government clearance"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Returned as CEO of multinational 🌐"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security: Quantum-resistant cryptography"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home air: Hospital-grade purification system"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your grant: Largest in university history"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly screen time: Mastering new skills daily 🎯"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New disaster recovery: Autonomous multi-cloud failover"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Emergency medical response integration"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Early quantum computing access"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Viral video with 100M views! 📹"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: AI-powered predictive maintenance"
+  },
+  {
+    "type": "SMS",
+    "message": "Your laundry: Museum-grade textile preservation"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your website: World's fastest loading site award"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your gratitude: 365-day streak completion! 🎉"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New architecture: Event-sourcing CQRS pattern"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school bus: Award-winning safety record"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Instant support with video chat"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Digitized entire town's history 📚"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: Global regulatory framework coverage"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: World record fuel efficiency"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: AI personal assistant with voice"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness: Zen master guided sessions 🧘"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Dynamic real-time configuration"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: AI-powered threat detection"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript: Century's most influential work"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Unicorn startup exit successful 🦄"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance: Global real user monitoring"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: CRISPR-based gene therapy"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Predictive AI for all features"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your energy savings: Carbon negative achievement 🌿"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New SSL: Post-quantum cryptography standard"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: World's first carbon negative hotel"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Open core with enterprise features"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Triplets born healthy! 👶👶👶"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New testing: Autonomous chaos engineering system"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home: Energy positive certification"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference: Historic attendance record"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily wisdom: 'The journey is the destination' 🛣️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup: Quantum blockchain verification"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Complete digital twin created"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Unlimited custom API rate limits"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Diamond wedding anniversary 💎"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New WAF: Self-learning threat protection"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart lock: Quantum encryption access"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research: Nobel Prize awarded! 🏆"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your screen time: Perfect productivity balance ⚖️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New permissions: Context-aware access control"
+  },
+  {
+    "type": "SMS",
+    "message": "Your transit: Free lifetime pass awarded"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Quantum-safe encryption standard"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Grammy award-winning composition 🎶"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New error handling: Autonomous healing system"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home water: Purest water certification"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your patents: Billion-dollar portfolio valuation"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly fitness: Superhuman achievements 💫"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New caching: Quantum computing optimized cache"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet: Guinness World Record for oldest pet"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: DNA-based authentication available"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Louvre exhibition opening 🎨"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: Universal compliance framework"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car wash: Nanotechnology coating applied"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar: Historic global participation"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily motivation: 'You are limitless' 🌌"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Quantum computing interface"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Military defense grade"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship: Named professorship established"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Pulitzer Prize winning author 📚"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New audit: Quantum-resistant audit trail"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Age reversal therapy available"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Sovereign data control worldwide"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep: Perfect score for entire year 🌟"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: Quantum computing analytics"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: Interstellar travel certified 🚀"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your research: Time Magazine Person of the Year"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Mars colonization team selected 🪐"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API: Quantum computing API released"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart thermostat: Quantum optimization"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Sentient AI integration available"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your hydration: Perfect lifetime achievement 🏆"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security: Quantum encryption standard"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Flying car certification received 🚗✈️"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Telepathic interface available 🧠"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Olympic gold medalist! 🥇"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New database: Quantum database with instant queries"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home solar: Quantum energy harvesting"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your conference: Intergalactic keynote speaker 🌌"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness: Enlightenment achieved 🕉️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New deployment: Quantum continuous deployment"
+  },
+  {
+    "type": "SMS",
+    "message": "Your pet: Immortality treatment successful 🐕"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Consciousness backup available 🧬"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Time travel experiment successful ⏳"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feedback: Quantum user experience analysis"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Teleportation capabilities added 🌀"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript: Foundational text for new civilization"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly challenge: Universal record set 🌠"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Multiverse collaboration spaces 🌌"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Planetary defense system"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Universal translator included"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: First contact ambassador 👽"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance: Instantaneous across multiverse"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Perfect health elixir available"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Omniscient assistant included"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your daily affirmation: 'I am the universe experiencing itself' 🌌"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New backup: Multiversal redundancy system"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: Fifth-dimensional experience available"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your paper: Fundamental law of physics rewritten"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Achieved singularity status 🤖"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New system: Quantum supremacy achieved"
+  },
+  {
+    "type": "SMS",
+    "message": "Your smart scale: Consciousness level measurement"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Cosmic awareness interface"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your meditation: Universal consciousness accessed 🌀"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New API docs: Holographic interactive manual"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school: Galactic academy ranking"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Interdimensional compatibility"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Appointed Galactic Council member 🌠"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New security: Quantum entanglement encryption"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home air: Purity of cosmic vacuum"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your grant: Universal research funding approved"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly screen time: Cosmic knowledge acquired 🌌"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New disaster recovery: Parallel universe failover"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Wormhole navigation system installed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Access to all possible timelines"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: First human to transcend physical form ✨"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New monitoring: Pan-dimensional analytics"
+  },
+  {
+    "type": "SMS",
+    "message": "Your laundry: Molecular reconstruction perfect"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your website: Loads before you think of it 💭"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your gratitude: Universal appreciation achieved 🙏"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New architecture: Quantum event sourcing"
+  },
+  {
+    "type": "SMS",
+    "message": "Your child's school bus: Teleportation transport"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Answers questions before asked"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Preserved consciousness for eternity"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New compliance: Universal ethical framework"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car: Achieved lightspeed capability 🚀"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Omnipresent access granted"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your mindfulness: Became one with everything ☯️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New feature: Reality editing interface"
+  },
+  {
+    "type": "SMS",
+    "message": "Your home security: Impenetrable to all threats"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your manuscript: Contains answer to life, universe, everything"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Created new universe 🌌"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New performance: Instantaneous across all realities"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription: Cure for all diseases discovered"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account: Access to all knowledge ever"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your energy savings: Perpetual motion achieved 🔄"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New SSL: Unbreakable by any means"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel: Exists in all dimensions simultaneously"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your software: Can create anything imagined"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend: Achieved ultimate enlightenment 💫"
+  }
+]
