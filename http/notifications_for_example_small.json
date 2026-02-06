@@ -1,0 +1,50 @@
+[
+  {
+    "type": "SMS",
+    "message": "Your order #12345 has been shipped. Track at: https://track.com/12345"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Welcome to our service! Please confirm your email address."
+  },
+  {
+    "type": "PUSH",
+    "message": "🎉 You've earned 100 bonus points! Check your rewards."
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New support ticket #789 created. Please check the admin panel."
+  },
+  {
+    "type": "SMS",
+    "message": "Your verification code is: 583294. Valid for 10 minutes."
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your monthly subscription will renew in 3 days for $9.99."
+  },
+  {
+    "type": "PUSH",
+    "message": "📱 New version 2.1.0 is available with dark mode!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "System alert: CPU usage at 95% on server web-01"
+  },
+  {
+    "type": "SMS",
+    "message": "Payment of $49.99 to Netflix was successful. Ref: TXN67890"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your password was changed from IP address 192.168.1.100"
+  },
+  {
+    "type": "PUSH",
+    "message": "🔥 Limited time offer: 50% off all electronics today only!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Daily report: 1,234 new users, 5,678 orders processed"
+  }
+]
