@@ -7,6 +7,7 @@ import lombok.AllArgsConstructor;
 import org.ko4inage.requestprocessor.api.request.NotificationRequest;
 import org.ko4inage.requestprocessor.model.Message;
 import org.ko4inage.requestprocessor.model.NotificationOutbox;
+import org.ko4inage.requestprocessor.model.dto.MessageDTO;
 import org.ko4inage.requestprocessor.repo.MessageRepository;
 import org.ko4inage.requestprocessor.repo.NotificationRepository;
 import org.slf4j.Logger;
@@ -45,7 +46,8 @@ public class NotificationService {
 
     private NotificationOutbox createNotification(NotificationRequest notificationRequest) throws JsonProcessingException {
 
-        String json = objectMapper.writeValueAsString(notificationRequest.getMessage());
+        MessageDTO msg = new MessageDTO(notificationRequest.getMessage());
+        String json = objectMapper.writeValueAsString(msg);
 
         NotificationOutbox note = new NotificationOutbox();
         note.setTopic(notificationRequest.getType().getTopicName());
