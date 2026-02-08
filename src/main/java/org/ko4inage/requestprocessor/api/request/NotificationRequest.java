@@ -4,7 +4,7 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.ko4inage.requestprocessor.classes.Topic;
+import org.ko4inage.requestprocessor.enums.Topic;
 
 @Data
 @NoArgsConstructor

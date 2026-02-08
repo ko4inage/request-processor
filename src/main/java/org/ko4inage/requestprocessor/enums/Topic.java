@@ -1,4 +1,4 @@
-package org.ko4inage.requestprocessor.classes;
+package org.ko4inage.requestprocessor.enums;
 
 public enum Topic {
     SMS {

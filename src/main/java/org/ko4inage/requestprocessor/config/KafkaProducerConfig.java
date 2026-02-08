@@ -22,6 +22,8 @@ public class KafkaProducerConfig {
         configProperties.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class);
         configProperties.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, StringSerializer.class);
         configProperties.put(ProducerConfig.ACKS_CONFIG, "all"); // ждем подтверждения
+        configProperties.put(ProducerConfig.RETRIES_CONFIG, 1);
+        configProperties.put(ProducerConfig.MAX_BLOCK_MS_CONFIG, 5000); // ждем метаданные топика 5 секунд вместо 60
 
         return new DefaultKafkaProducerFactory<>(
                 configProperties

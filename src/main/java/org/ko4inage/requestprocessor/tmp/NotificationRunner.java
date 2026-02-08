@@ -12,6 +12,6 @@ public class NotificationRunner implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        sender.sendNotificationsFromFile("http/notifications_for_example_small.json");
+        //sender.sendNotificationsFromFile("http/notifications_for_example_small.json");
     }
 }

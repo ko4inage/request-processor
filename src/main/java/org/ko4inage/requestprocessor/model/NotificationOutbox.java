@@ -1,7 +1,10 @@
 package org.ko4inage.requestprocessor.model;
 
 import jakarta.persistence.*;
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.hibernate.annotations.CreationTimestamp;
 
 import java.time.LocalDateTime;
@@ -39,4 +42,5 @@ public class NotificationOutbox {
     @Column(nullable = false)
     @Builder.Default
     private int attempt = 1;
+
 }

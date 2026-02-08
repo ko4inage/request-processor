@@ -2,25 +2,25 @@ package org.ko4inage.requestprocessor.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import jakarta.transaction.Transactional;
-import lombok.AllArgsConstructor;
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.ko4inage.requestprocessor.api.request.NotificationRequest;
 import org.ko4inage.requestprocessor.model.Message;
 import org.ko4inage.requestprocessor.model.NotificationOutbox;
 import org.ko4inage.requestprocessor.model.dto.MessageDTO;
 import org.ko4inage.requestprocessor.repo.MessageRepository;
 import org.ko4inage.requestprocessor.repo.NotificationRepository;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+import org.springframework.transaction.annotation.Propagation;
 
 import java.util.UUID;
 
-@AllArgsConstructor
+@RequiredArgsConstructor
 @Service
+@Slf4j
 public class NotificationService {
 
-    private static final Logger log = LoggerFactory.getLogger(NotificationService.class);
     private final NotificationRepository notificationRepository;
     private final MessageRepository messageRepository;
     private final ObjectMapper objectMapper;
@@ -44,6 +44,11 @@ public class NotificationService {
         return message;
     }
 
+    @Transactional(propagation = Propagation.REQUIRES_NEW)
+    public void incrementAttempt(UUID id) {
+        notificationRepository.incrementAttempt(id);
+    }
+
     private NotificationOutbox createNotification(NotificationRequest notificationRequest) throws JsonProcessingException {
 
         MessageDTO msg = new MessageDTO(notificationRequest.getMessage());
@@ -63,5 +68,9 @@ public class NotificationService {
         message.setMessage(notificationRequest.getMessage());
         return message;
     }
+
+    NotificationOutbox findById(UUID id){
+        return notificationRepository.findById(id).orElseThrow();
+    };
 
 }

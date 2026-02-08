@@ -46,5 +46,341 @@
   {
     "type": "TG_MESSAGE",
     "message": "Daily report: 1,234 new users, 5,678 orders processed"
+  },
+  {
+    "type": "SMS",
+    "message": "Your appointment with Dr. Smith is tomorrow at 10:30 AM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Complete your profile to unlock premium features!"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend Alex just sent you a message!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "ERROR: Database connection failed on backup server"
+  },
+  {
+    "type": "SMS",
+    "message": "Your Uber is arriving in 4 minutes. License plate: ABC123"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Thank you for your purchase! Invoice #INV-2023-789 attached."
+  },
+  {
+    "type": "PUSH",
+    "message": "⏰ Reminder: Meeting with team in 15 minutes"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user registration: john@example.com needs approval"
+  },
+  {
+    "type": "SMS",
+    "message": "Your balance is running low. Please top up to avoid service interruption."
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been temporarily locked due to suspicious activity."
+  },
+  {
+    "type": "PUSH",
+    "message": "🎁 You have 3 unclaimed gifts in your inbox!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Security alert: Multiple failed login attempts detected"
+  },
+  {
+    "type": "SMS",
+    "message": "Your delivery will arrive between 2-4 PM today"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Action required: Please update your payment information"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your weekly stats: 12 hours active, 45 tasks completed!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Backup completed successfully. Size: 45.6GB"
+  },
+  {
+    "type": "SMS",
+    "message": "Your COVID test results are ready. View at: https://health.gov/results"
+  },
+  {
+    "type": "EMAIL",
+    "message": "You've been invited to collaborate on Project Aurora"
+  },
+  {
+    "type": "PUSH",
+    "message": "New comment on your post: 'Great work!'"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Payment received: $1,250 from Client Corp"
+  },
+  {
+    "type": "SMS",
+    "message": "Your flight AA1234 is delayed by 2 hours. New departure: 8:45 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your free trial ends in 2 days. Upgrade to premium now!"
+  },
+  {
+    "type": "PUSH",
+    "message": "You've been away for a while. We miss you! 👋"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New order #45678: $349.99 from customer ID 8910"
+  },
+  {
+    "type": "SMS",
+    "message": "Emergency weather alert: Tornado warning until 6 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your document 'Contract.pdf' has been signed by all parties"
+  },
+  {
+    "type": "PUSH",
+    "message": "🏆 Congratulations! You've reached level 25!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Disk space critical: Only 2% free on /dev/sda1"
+  },
+  {
+    "type": "SMS",
+    "message": "Your prescription is ready for pickup at CVS Pharmacy"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Security check: New device detected signing into your account"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your video 'How to setup' has 1,234 new views!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "API rate limit exceeded for client: mobile-app-v2"
+  },
+  {
+    "type": "SMS",
+    "message": "Your electricity bill of $87.65 is due in 5 days"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your job application for Senior Developer has been reviewed"
+  },
+  {
+    "type": "PUSH",
+    "message": "New match! Sarah liked your profile 💕"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Scheduled maintenance starts in 1 hour. Downtime: 30 min"
+  },
+  {
+    "type": "SMS",
+    "message": "Your reservation at Olive Garden for 7 PM is confirmed"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your annual performance review is scheduled for next Monday"
+  },
+  {
+    "type": "PUSH",
+    "message": "🎵 New album from your favorite artist is out!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Customer support: New high priority ticket #999"
+  },
+  {
+    "type": "SMS",
+    "message": "Your gym membership auto-renewed. Amount: $29.99"
+  },
+  {
+    "type": "EMAIL",
+    "message": "You have unread messages in your support inbox"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your step goal for today: 8,234/10,000 steps"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Deployment successful: v1.2.3 to production"
+  },
+  {
+    "type": "SMS",
+    "message": "Your credit score increased by 15 points this month!"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your shipping label has been created for return #RET-789"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your food delivery is 5 minutes away! 🍕"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Monitor alert: Response time above threshold (2.5s)"
+  },
+  {
+    "type": "SMS",
+    "message": "Your car's oil change is due in 500 miles"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account has been verified successfully!"
+  },
+  {
+    "type": "PUSH",
+    "message": "You've been mentioned in a comment by @mike"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New follower: @tech_guru started following your channel"
+  },
+  {
+    "type": "SMS",
+    "message": "Your 2FA backup code: 8372-1946-5284. Keep it safe!"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your subscription to Premium Plan has been activated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Time for your daily meditation! 🧘‍♂️"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New subscriber on YouTube: +1,234 this week"
+  },
+  {
+    "type": "SMS",
+    "message": "Your package from Amazon has been delivered to your doorstep"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your request for vacation days (Aug 10-15) has been approved"
+  },
+  {
+    "type": "PUSH",
+    "message": "Breaking news: Major announcement from tech giant"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Database index optimization completed in 45 seconds"
+  },
+  {
+    "type": "SMS",
+    "message": "Your dental cleaning appointment is confirmed for next Tuesday"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your credit card ending in 4321 has expired. Please update."
+  },
+  {
+    "type": "PUSH",
+    "message": "Your stock alert: AAPL is up 3.2% today"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New user feedback received: Rating 4.5/5"
+  },
+  {
+    "type": "SMS",
+    "message": "Your COVID vaccine booster appointment is scheduled"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your document has been rejected. Please review comments."
+  },
+  {
+    "type": "PUSH",
+    "message": "New episode of your favorite podcast is available!"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Sales target achieved: 125% of monthly goal 🎯"
+  },
+  {
+    "type": "SMS",
+    "message": "Your internet service will be interrupted for maintenance tomorrow"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your scholarship application status has been updated"
+  },
+  {
+    "type": "PUSH",
+    "message": "You have 3 new notifications in the app"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Memory usage alert: 85% on cache server"
+  },
+  {
+    "type": "SMS",
+    "message": "Your hotel booking at Hilton is confirmed. Check-in: 3 PM"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your account security settings have been updated"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your friend just shared a photo with you 📸"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New blog post published: '10 Tips for Productivity'"
+  },
+  {
+    "type": "SMS",
+    "message": "Your roadside assistance request has been received. ETA: 25 min"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your webinar registration for 'AI Trends 2024' is confirmed"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your sleep analysis is ready: 7h 23m, quality: 85%"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "Cache cleared successfully. Performance improved by 40%"
+  },
+  {
+    "type": "SMS",
+    "message": "Your loan application has been approved for $15,000"
+  },
+  {
+    "type": "EMAIL",
+    "message": "Your meeting recording is available for download"
+  },
+  {
+    "type": "PUSH",
+    "message": "Your monthly listening report: Top artist was Taylor Swift"
+  },
+  {
+    "type": "TG_MESSAGE",
+    "message": "New integration request from partner API"
   }
 ]
