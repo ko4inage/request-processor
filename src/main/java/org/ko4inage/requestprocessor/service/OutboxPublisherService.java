@@ -29,14 +29,7 @@ public class OutboxPublisherService {
         List<NotificationOutbox> notifications = notificationRepository.findBatch(limit);
 
         for (NotificationOutbox notification : notifications) {
-            try {
-                singlePublisher.publish(notification.getId());
-            } catch (Exception e) {
-                log.warn("Неудачная попытка отправки сообщения: {}, attempt={}",
-                        notification.getKey(),
-                        notification.getAttempt(),
-                        e);
-            }
+            singlePublisher.publish(notification.getId());
         }
 
     }

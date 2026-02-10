@@ -5,7 +5,7 @@ Content-Type: application/json
 
 {
   "type": "EMAIL",
-  "message": "Новое письмо"
+  "message": "09 02 2026 2"
 }
 
 ###
@@ -39,13 +39,6 @@ POST {{url}}
 Content-Type: application/json
 
 {
-  "type": "TG_MESSAGE",
-  "message": "Кафку подняли"
-}
-###
-POST {{url}}
-Content-Type: application/json
-
-{
-  "type": "MESSAGE"
+  "type": "MESSAGE",
+  "message": "Кафка лежит"
 }
