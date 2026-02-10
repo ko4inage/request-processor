@@ -5,6 +5,6 @@ import lombok.RequiredArgsConstructor;
 
 @Data
 @RequiredArgsConstructor
-public class MessageDTO {
-    private final String Message;
+public class MessageDto {
+  private final String message;
 }

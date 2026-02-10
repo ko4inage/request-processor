@@ -9,26 +9,29 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/v1/notifications")
 public class NotificationController {
-    private static final Logger log = LoggerFactory.getLogger(NotificationController.class);
+  private static final Logger log = LoggerFactory.getLogger(NotificationController.class);
 
-    private final NotificationService notificationService;
+  private final NotificationService notificationService;
 
-    public NotificationController(NotificationService notificationService) {
-        this.notificationService = notificationService;
-    }
+  public NotificationController(NotificationService notificationService) {
+    this.notificationService = notificationService;
+  }
 
-    @PostMapping
-    public ResponseEntity<Message> createNotification(@RequestBody @Valid NotificationRequest notificationRequest) throws JsonProcessingException {
-        log.info("Получен запрос: {}", notificationRequest);
-        Message message = notificationService.saveNotification(notificationRequest);
+  @PostMapping
+  public ResponseEntity<Message> createNotification(@RequestBody @Valid NotificationRequest notificationRequest) throws JsonProcessingException {
+    log.info("Получен запрос: {}", notificationRequest);
+    Message message = notificationService.saveNotification(notificationRequest);
 
-        return ResponseEntity
-                .status(HttpStatus.CREATED)
-                .body(message);
-    }
+    return ResponseEntity
+        .status(HttpStatus.CREATED)
+        .body(message);
+  }
 }

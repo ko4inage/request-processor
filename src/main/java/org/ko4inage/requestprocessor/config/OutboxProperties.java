@@ -8,6 +8,6 @@ import org.springframework.stereotype.Component;
 @ConfigurationProperties(prefix = "app.outbox")
 @Data
 public class OutboxProperties {
-    private int batchSize;
-    private long delayMs;
+  private int batchSize;
+  private long delayMs;
 }

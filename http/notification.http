@@ -5,7 +5,7 @@ Content-Type: application/json
 
 {
   "type": "EMAIL",
-  "message": "09 02 2026 2"
+  "message": "3"
 }
 
 ###
@@ -14,7 +14,7 @@ Content-Type: application/json
 
 {
   "type": "SMS",
-  "message": "Новое sms"
+  "message": "22"
 }
 ###
 POST {{url}}

@@ -8,11 +8,11 @@ import org.springframework.stereotype.Component;
 @RequiredArgsConstructor
 public class NotificationRunner implements CommandLineRunner {
 
-    private final AsyncNotificationSender sender;
+  private final AsyncNotificationSender sender;
 
-    @Override
-    public void run(String... args) throws Exception {
-        //тестируем на пачке запросов
-        sender.sendNotificationsFromFile("http/notifications_for_example.json");
-    }
+  @Override
+  public void run(String... args) throws Exception {
+    // тестируем на пачке запросов
+    sender.sendNotificationsFromFile("http/notifications_for_example.json");
+  }
 }
