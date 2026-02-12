@@ -53,19 +53,19 @@ public class NotificationService {
     MessageDto msg = new MessageDto(notificationRequest.getMessage());
     String json = objectMapper.writeValueAsString(msg);
 
-    NotificationOutbox note = new NotificationOutbox();
-    note.setTopic(notificationRequest.getType().getTopicName());
-    note.setKey(UUID.randomUUID().toString());
-    note.setValue(json);
-    note.setSent(false);
-    return note;
+    return NotificationOutbox.builder()
+        .topic(notificationRequest.getType().getTopicName())
+        .key(UUID.randomUUID().toString())
+        .value(json)
+        .sent(false)
+        .build();
   }
 
   private Message createMessage(NotificationRequest notificationRequest) {
-    Message message = new Message();
-    message.setType(notificationRequest.getType().toString());
-    message.setMessage(notificationRequest.getMessage());
-    return message;
+    return Message.builder()
+        .type(notificationRequest.getType().toString())
+        .message(notificationRequest.getMessage())
+        .build();
   }
 
   NotificationOutbox findById(UUID id) {
