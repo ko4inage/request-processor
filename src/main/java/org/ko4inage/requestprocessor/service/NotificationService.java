@@ -8,7 +8,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.ko4inage.requestprocessor.api.request.NotificationRequest;
 import org.ko4inage.requestprocessor.model.Message;
 import org.ko4inage.requestprocessor.model.NotificationOutbox;
-import org.ko4inage.requestprocessor.model.dto.MessageDto;
+import org.ko4inage.requestprocessor.dto.MessageDto;
 import org.ko4inage.requestprocessor.repo.MessageRepository;
 import org.ko4inage.requestprocessor.repo.NotificationRepository;
 import org.springframework.stereotype.Service;
